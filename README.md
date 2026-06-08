@@ -1,4 +1,4 @@
-# Calculator
+
 # Python Calculator Project
 
 This is a simple calculator made using Python.
